@@ -1,0 +1,61 @@
+.hover {
+    transition: var(--transition-micro-medium);
+
+    &:hover {
+        transform: translateX(var(--static-space-4));
+    }
+}
+
+.avatar {
+    position: sticky;
+    height: fit-content;
+    top: var(--static-space-64);
+}
+
+@media (--s) {
+    .avatar {
+        top: auto;
+    }
+
+    .textAlign {
+        text-align: center;
+    }
+
+    .blockAlign {
+        align-self: center;
+    }
+}
+
+@media (max-width: 600px) {
+    .avatar {
+        position: static !important;
+        order: -1 !important;
+        width: 100%;
+        margin: 0 auto 16px auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        z-index: auto;
+    }
+    .blockAlign {
+        max-width: 100vw !important;
+        width: 100% !important;
+        margin: 0 auto !important;
+        align-items: center !important;
+        padding: 0 8px !important;
+        box-sizing: border-box;
+    }
+    .textAlign {
+        text-align: center;
+        font-size: 2rem !important;
+        word-break: break-word;
+    }
+    .profileName {
+        font-size: 2rem !important;
+        text-align: center;
+        word-break: break-word;
+    }
+    .tocMobileHide {
+        display: none !important;
+    }
+}
