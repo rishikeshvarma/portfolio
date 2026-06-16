@@ -1,0 +1,162 @@
+{
+    "profile": {
+        "name": "K. Sri Rishikesh Varma",
+        "title": "AI & Machine Learning Engineer | Data Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "email": "rishikeshvarma9854@gmail.com",
+        "linkedin": "https://linkedin.com/in/rishikeshvarma-kucharlapati",
+        "github": "https://github.com/rishikeshvarma",
+        "avatarUrl": "https://lh3.googleusercontent.com/u/0/d/13Zp27EEb3j7xP-A-FQbgxHYHD2rkGFjx",
+        "bio": "High-impact AI Engineer specializing in Small Language Models (SLMs) and hybrid neuro-symbolic architectures. Expert in building low-latency, privacy-preserving AI systems and scalable data infrastructures."
+    },
+    "skills": {
+        "Languages": [
+            "Python",
+            "Java (OOPs)",
+            "SQL",
+            "JavaScript",
+            "HTML/CSS"
+        ],
+        "AI & Machine Learning": [
+            "TensorFlow",
+            "Keras",
+            "PyTorch",
+            "Hugging Face",
+            "Transformers",
+            "VL-JEPA",
+            "BDH-Architecture",
+            "RAG",
+            "Fine-Tuning"
+        ],
+        "Data Engineering & DevOps": [
+            "MySQL",
+            "PostgreSQL (pgvector)",
+            "MongoDB",
+            "AWS",
+            "Docker",
+            "FastAPI",
+            "Flask (API)",
+            "Node.js",
+            "n8n"
+        ]
+    },
+    "experience": [
+        {
+            "role": "Data Engineer",
+            "company": "Ties Verse",
+            "period": "2026-Present",
+            "type": "Remote",
+            "highlights": [
+                "Researching API integrations and utilizing advanced scrapers to aggregate real-time news for automated social media dissemination.",
+                "Conducting engaging workshops and research initiatives focused on geopolitical analysis and global trends."
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "type": "Patent",
+            "title": "PhishNinja: An NLP-Driven Framework for Phishing and Spam Detection Using Explainable AI",
+            "meta": "Application No. 202541111904 A, India | 98% accuracy via quantized on-device inference",
+            "url": "https://www.goveda.com/patent/IN-202541111904-A"
+        },
+        {
+            "type": "IEEE Conference Paper",
+            "title": "Phishing Detection: A Comprehensive Survey of Methods and Trends",
+            "meta": "DELCON Conference Paper, IEEE Xplore (11400192)",
+            "url": "https://ieeexplore.ieee.org/document/11400192"
+        }
+    ],
+    "projects": [
+        {
+            "title": "PhishNinja",
+            "subtitle": "Agentic AI Security Framework",
+            "tags": [
+                "Python",
+                "React",
+                "Supabase",
+                "Groq",
+                "n8n",
+                "Raspberry Pi"
+            ],
+            "metrics": "99.7% Precision | 640ms Latency",
+            "description": "An enterprise-grade, distributed cybersecurity framework engineered to isolate and neutralize multi-modal phishing, spam, and quishing vectors in real-time under sub-second constraints using custom Multi-Agent Systems.",
+            "links": {
+                "github": "https://github.com/rishikeshvarma/PhishNinja-V2",
+                "live": "https://phishninja-v2.vercel.app"
+            }
+        },
+        {
+            "title": "AppCompiler",
+            "subtitle": "Self-Healing SaaS Architecture Engine",
+            "tags": [
+                "Python",
+                "Gemini API",
+                "FastAPI",
+                "Postgres",
+                "React"
+            ],
+            "metrics": "100% Success Rate via Automated Self-Correction",
+            "description": "A deterministic AI-driven compiler that transforms natural language intent into executable full-stack SaaS architectures with automated cross-layer validation via a 4-stage agentic workflow.",
+            "links": {
+                "github": "https://github.com/rishikeshvarma/APP_Compiler",
+                "live": "https://app-compiler-six.vercel.app"
+            }
+        },
+        {
+            "title": "Story Writer",
+            "subtitle": "Baby Dragon Hatchling Architecture",
+            "tags": [
+                "Python",
+                "PyTorch",
+                "Custom BDH Core"
+            ],
+            "metrics": "Local 4GB RAM Inference Optimization",
+            "description": "A high-performance storytelling engine built on Small Language Model (SLM) logic to create non-contradictory, creative narratives bypassing cloud dependencies completely.",
+            "links": {}
+        },
+        {
+            "title": "NutriVision",
+            "subtitle": "AI Nutritionist Platform",
+            "tags": [
+                "Computer Vision",
+                "RAG",
+                "Mobile App",
+                "Python"
+            ],
+            "metrics": "Real-time Macronutrient Estimation",
+            "description": "A health assistant application using Computer Vision to recognize food items and provide instant nutritional analysis alongside personalized diet optimization algorithms.",
+            "links": {
+                "github": "https://github.com/rishikeshvarma/NutriVision",
+                "live": "https://nutrivision99.vercel.app"
+            }
+        }
+    ],
+    "education": [
+        {
+            "institution": "Keshav Memorial Institute of Technology",
+            "degree": "B.Tech in Computer Science (AI & ML)",
+            "period": "2023-2027",
+            "score": "CGPA: 7.4 (Overall) | SGPA: 8.2 (Current)"
+        },
+        {
+            "institution": "Narayana Junior College",
+            "degree": "XII (Intermediate Board)",
+            "period": "2023",
+            "score": "Percentage: 86.6%"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Kaggle Global Rank",
+            "desc": "Top 5 globally in competitive ML challenges, optimizing model ensembles."
+        },
+        {
+            "title": "IIT Hyderabad Certification",
+            "desc": "GEN AI Lecture Certificate (Deep Learning specialization)."
+        },
+        {
+            "title": "Leadership & Sports",
+            "desc": "Tech Head of Riti (Upcycling Club) at KMIT | District-Level Tennis Runner-up."
+        }
+    ]
+}
